@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.deps.json
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.dll
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Business.pdb
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.dll
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Entities.dll
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.DataAccess.pdb
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\bin\Debug\netcoreapp3.1\HotelFinder.Entities.pdb
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.csproj.CopyComplete
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.dll
+C:\Users\lenovo\source\repos\HotelFinder\HotelFinder.Business\obj\Debug\netcoreapp3.1\HotelFinder.Business.pdb
