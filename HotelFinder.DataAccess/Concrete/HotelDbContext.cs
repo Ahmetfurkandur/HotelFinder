@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using HotelFinder.Entities;
+﻿using HotelFinder.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace HotelFinder.DataAccess
+namespace HotelFinder.DataAccess.Concrete
 {
     public class HotelDbContext:DbContext
     {

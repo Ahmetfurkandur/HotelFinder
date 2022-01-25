@@ -4973,11 +4973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\coding\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
       "projectName": "HotelFinder.DataAccess",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\coding\\HotelFinder\\HotelFinder.DataAccess\\HotelFinder.DataAccess.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\HotelFinder\\HotelFinder.DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\coding\\HotelFinder\\HotelFinder.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4997,8 +4997,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\lenovo\\source\\repos\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\source\\repos\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj"
+            "C:\\Users\\lenovo\\Desktop\\coding\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\Desktop\\coding\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj"
             }
           }
         }

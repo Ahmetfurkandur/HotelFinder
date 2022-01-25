@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {}
+    "C:\\Users\\lenovo\\Desktop\\coding\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
+    "C:\\Users\\lenovo\\Desktop\\coding\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\coding\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
         "projectName": "HotelFinder.Entities",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
+        "projectPath": "C:\\Users\\lenovo\\Desktop\\coding\\HotelFinder\\HotelFinder.Entities\\HotelFinder.Entities.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\HotelFinder\\HotelFinder.Entities\\obj\\",
+        "outputPath": "C:\\Users\\lenovo\\Desktop\\coding\\HotelFinder\\HotelFinder.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

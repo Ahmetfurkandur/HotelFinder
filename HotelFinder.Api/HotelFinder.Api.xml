@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HotelFinder.Api</name>
+    </assembly>
+    <members>
+        <member name="M:HotelFinder.Api.Controllers.HotelsController.Get">
+            <summary>
+            Gets all hotels.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:HotelFinder.Api.Controllers.HotelsController.GetById(System.Int32)">
+            <summary>
+            Gets an hotel by id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HotelFinder.Api.Controllers.HotelsController.GetByName(System.String)">
+            <summary>
+            Gets an hotel by name
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:HotelFinder.Api.Controllers.HotelsController.Post(HotelFinder.Entities.Hotel)">
+            <summary>
+            Adds the hotel to database.
+            </summary>
+            <param name="hotel"></param>
+        </member>
+        <member name="M:HotelFinder.Api.Controllers.HotelsController.Put(HotelFinder.Entities.Hotel)">
+            <summary>
+            Updates the hotel
+            </summary>
+            <param name="hotel"></param>
+        </member>
+        <member name="M:HotelFinder.Api.Controllers.HotelsController.Delete(HotelFinder.Entities.Hotel)">
+            <summary>
+            Deletes the hotel
+            </summary>
+            <param name="hotel"></param>
+        </member>
+        <member name="T:HotelFinder.Api.Program">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:HotelFinder.Api.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:HotelFinder.Api.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
